@@ -1,4 +1,1 @@
-fastapi==0.136.1
-uvicorn[standard]==0.46.0
-sentence-transformers==5.4.1
-numpy==2.4.4
+# No third-party dependencies required for the minimal cosine-similarity script.
