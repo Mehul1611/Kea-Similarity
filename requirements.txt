@@ -1,1 +1,2 @@
-# No third-party dependencies required for the minimal cosine-similarity script.
+sentence-transformers==5.4.1
+numpy==2.4.4
